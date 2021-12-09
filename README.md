@@ -10,7 +10,7 @@ My interests range from gaming and anime to coding and computers in general. I a
 
 ## Socials
 
-(Twitter: @Firq_ow)[https://twitter.com/firq_ow]
+[Twitter: @Firq_ow](https://twitter.com/firq_ow)
 I am currently in the process of creating my own discord server and I'll probably start streaming on Twitch soonish.
 
 # What I do
