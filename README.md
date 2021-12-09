@@ -1,4 +1,4 @@
-<img src="https://github.com/Firq-ow/Firq/raw/main/files/dark_pfp.png" align="right">
+<img src="https://github.com/Firq-ow/Firq/raw/main/files/dark_pfp.png" align="right" width="64" height="64">
 
 # Who I am
 
