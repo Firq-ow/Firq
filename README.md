@@ -14,6 +14,8 @@ My interests range from gaming and anime to coding and computers in general. I a
 
 [<img align="left" alt="twitch.tv/firq" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.4.0/icons/twitch.svg" />][twitch]
 
+[<img align="left" alt="Rayshift.io" width="22px" src="https://github.com/Firq-ow/Firq/raw/main/files/rayshift_icon.png" />][rayshift]
+
 <br>
 </br>
 I am currently in the process of creating my own discord server.
@@ -63,6 +65,7 @@ I also want to start creating tools related to help with playing Fate Grand Orde
 
 
 [twitter]: https://www.twitter.com/firq_ow
+[rayshift]: https://www.rayshift.io/na/firq
 [twitch]: https://www.twitch.tv/firq
 [github]: https://github.com/Firq-ow
 [pycharm]: https://www.jetbrains.com/pycharm/
