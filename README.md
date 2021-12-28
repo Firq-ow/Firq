@@ -38,7 +38,7 @@ I am currently learing how do design electrical systems and program. Doing that,
 <br>
 </br>
 
-while also being able to work with a variety of design and simulation tools, like Matlab, Eagle or LTSpice, as well as with more specific languages like VHLD.
+I am also able to work with a variety of other programming, design and simulation tools, for example Matlab, Eagle or LTSpice, as well as with more specific languages like VHLD.
 
 ### Past projects
 
