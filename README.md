@@ -10,8 +10,8 @@ My interests range from gaming and anime to coding and computers in general. I a
 
 ### Socials
 
-[![Twitter Link Firq_ow](https://github.com/Firq-ow/Firq/raw/main/files/icons/twitter_light.png#gh-light-mode-only)]([twitter])
-[![Twitter Link Firq_ow](https://github.com/Firq-ow/Firq/raw/main/files/icons/twitter_dark.png#gh-dark-mode-only)]([twitter])
+[![Twitter Link Firq_ow](files/icons/twitter_light.png#gh-light-mode-only)]([twitter])
+[![Twitter Link Firq_ow](files/icons/twitter_dark.png#gh-dark-mode-only)]([twitter])
 
 [<img align="left" title="Twitter" alt="Twitter.com/firq_ow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.4.0/icons/twitter.svg" />][twitter]
 
