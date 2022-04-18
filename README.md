@@ -1,4 +1,4 @@
-<img alt="Firq Profile Picture" src="https://github.com/Firq-ow/Firq/raw/main/files/dark_pfp.png" align="right" width="64" height="64">
+<img alt="Firq Profile Picture" src="https://github.com/Firq-ow/Firq/raw/main/files/images/dark_pfp.png" align="right" width="64" height="64">
 
 ## Who I am
 
@@ -10,11 +10,14 @@ My interests range from gaming and anime to coding and computers in general. I a
 
 ### Socials
 
+[![Twitter Link Firq_ow](https://github.com/Firq-ow/Firq/raw/main/files/icons/twitter_light.png#gh-light-mode-only)]([twitter])
+[![Twitter Link Firq_ow](https://github.com/Firq-ow/Firq/raw/main/files/icons/twitter_dark.png#gh-dark-mode-only)]([twitter])
+
 [<img align="left" title="Twitter" alt="Twitter.com/firq_ow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.4.0/icons/twitter.svg" />][twitter]
 
 [<img align="left" title="Twitch" alt="twitch.tv/firq" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.4.0/icons/twitch.svg" />][twitch]
 
-[<img align="left" title="Rayshift.io" alt="Rayshift.io" width="22px" src="https://github.com/Firq-ow/Firq/raw/main/files/rayshift_icon.png" />][rayshift]
+[<img align="left" title="Rayshift.io" alt="Rayshift.io" width="22px" src="https://github.com/Firq-ow/Firq/raw/main/files/icons/rayshift_icon.png" />][rayshift]
 
 <br>
 </br>
@@ -62,6 +65,10 @@ I helped design a testing system based on Matlab which tested the temperature dr
 I plan on learning new programming languages, such as Javascript, as well as expanding my knowledge in electrical engineering and programming in general.
 
 I also want to start creating tools related to help with playing Fate Grand Order, such as a personal resource planner or an automatic damage and refund calculator.
+
+### Credits
+
+Icons by Iconmonstr (<https://iconmonstr.com/>)
 
 
 [twitter]: https://www.twitter.com/firq_ow
