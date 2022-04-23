@@ -9,19 +9,20 @@ I am mostly developing tools and code related to work projects (see below), but 
 My interests range from gaming and anime to coding and computers in general. I am heavily invested into Fate/GO and the corresponding community.
 
 ### Socials
-
+<p align='center'>
 [<img src="https://img.shields.io/badge/Twitter-Firq__ow-blue?style=for-the-badge&logo=Twitter" alt="Twitter: Firq_ow"/>][twitter]
 
 [<img src="https://img.shields.io/badge/Twitch-Firq-blueviolet?style=for-the-badge&logo=Twitch" alt="Twitch: Firq">][twitch]
 
 [<img align="left" title="Rayshift.io" alt="Rayshift.io" width="22px" src="files/icons/rayshift_icon.png" />][rayshift]
 
-<br></br>
+</p>
 
 I am currently in the process of creating my own discord server.
 
 ### Setup
 
+<p align='center'>
 <img src="https://img.shields.io/badge/AMD-Ryzen 7 2700X-FF0000?labelColor=grey&style=for-the-badge&logo=AMD" />
 <img src="https://img.shields.io/badge/NVIDIA-RTX 2070-76B900?labelColor=grey&style=for-the-badge&logo=NVIDIA" />
 <img src="https://img.shields.io/badge/RAM-16GB-5d089b?labelColor=grey&style=for-the-badge" alt="RAM" />
@@ -31,6 +32,7 @@ I am currently in the process of creating my own discord server.
 <br></br>
 
 <img src="https://img.shields.io/badge/Windows_10-5d089b?style=for-the-badge&logo=windows&logoColor=white" alt="Windows 10"/>
+</p>
 
 ## What I do
 
@@ -38,6 +40,7 @@ I am currently learing how do design electrical systems and program. Doing that,
 
 ### Languages and Tools
 
+<p align='center'>
 [<img src="https://img.shields.io/badge/-Python-blue?style=for-the-badge&logoColor=white&labelColor=000000&logo=Python" alt="Python"/>][python]
 
 [<img src="https://img.shields.io/badge/-C-blue?style=for-the-badge&logoColor=white&labelColor=000000&logo=c" alt="C"/>][c]
@@ -58,7 +61,7 @@ I am currently learing how do design electrical systems and program. Doing that,
 
 [<img src="https://img.shields.io/badge/-Jenkins-blue?style=for-the-badge&logoColor=white&labelColor=000000&logo=jenkins" alt="Jenkins"/>][jenkins]
 
-<br></br>
+</p>
 
 I am also able to work with a variety of other programming, design and simulation tools, for example Matlab, Eagle or LTSpice, as well as with more specific languages like VHLD.
 
