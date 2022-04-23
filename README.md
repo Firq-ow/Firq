@@ -19,7 +19,7 @@ My interests range from gaming and anime to coding and computers in general. I a
 </a>
 
 <a href="https://rayshift.io/na/firq">
-<img align="left" title="Rayshift.io" alt="Rayshift.io" width="22px" src="files/icons/rayshift_icon.png" />
+<img title="Rayshift.io" alt="Rayshift.io" width="22px" src="files/icons/rayshift_icon.png" />
 </a>
 
 </p>
@@ -52,9 +52,9 @@ I am currently learing how do design electrical systems and program. Doing that,
 <img src="https://img.shields.io/badge/-C++-blue?style=for-the-badge&logoColor=white&labelColor=000000&logo=cplusplus" alt="C++"/>
 
 <img src="https://img.shields.io/badge/-Git-blue?style=for-the-badge&logoColor=white&labelColor=000000&logo=git" alt="Git"/>
-
+</p>
 <br></br>
-
+<p align='center'>
 <img src="https://img.shields.io/badge/-Pycharm-blue?style=for-the-badge&logoColor=white&labelColor=000000&logo=PyCharm" alt="Pycharm"/>
 
 <img src="https://img.shields.io/badge/-VS Code-blue?style=for-the-badge&logoColor=white&labelColor=000000&logo=visualstudiocode" alt="VSCode"/>
