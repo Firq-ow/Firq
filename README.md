@@ -10,11 +10,17 @@ My interests range from gaming and anime to coding and computers in general. I a
 
 ### Socials
 <p align='center'>
-[<img src="https://img.shields.io/badge/Twitter-Firq__ow-blue?style=for-the-badge&logo=Twitter" alt="Twitter: Firq_ow"/>][twitter]
+<a href="https://twitter.com/firq_ow">
+[<img src="https://img.shields.io/badge/Twitter-Firq__ow-blue?style=for-the-badge&logo=Twitter" alt="Twitter: Firq_ow"/>]
+</a>
 
-[<img src="https://img.shields.io/badge/Twitch-Firq-blueviolet?style=for-the-badge&logo=Twitch" alt="Twitch: Firq">][twitch]
+<a href="https://www.twitch.tv/firq">
+[<img src="https://img.shields.io/badge/Twitch-Firq-blueviolet?style=for-the-badge&logo=Twitch" alt="Twitch: Firq">]
+</a>
 
-[<img align="left" title="Rayshift.io" alt="Rayshift.io" width="22px" src="files/icons/rayshift_icon.png" />][rayshift]
+<a href="https://rayshift.io/na/firq">
+[<img align="left" title="Rayshift.io" alt="Rayshift.io" width="22px" src="files/icons/rayshift_icon.png" />]
+</a>
 
 </p>
 
@@ -28,9 +34,7 @@ I am currently in the process of creating my own discord server.
 <img src="https://img.shields.io/badge/RAM-16GB-5d089b?labelColor=grey&style=for-the-badge" alt="RAM" />
 <img src="https://img.shields.io/badge/SSD-500GB-5d089b?labelColor=grey&style=for-the-badge" alt="SSD" />
 <img src="https://img.shields.io/badge/HDD-3TB-5d089b?labelColor=grey&style=for-the-badge" alt="HDD" />
-
 <br></br>
-
 <img src="https://img.shields.io/badge/Windows_10-5d089b?style=for-the-badge&logo=windows&logoColor=white" alt="Windows 10"/>
 </p>
 
@@ -41,25 +45,25 @@ I am currently learing how do design electrical systems and program. Doing that,
 ### Languages and Tools
 
 <p align='center'>
-[<img src="https://img.shields.io/badge/-Python-blue?style=for-the-badge&logoColor=white&labelColor=000000&logo=Python" alt="Python"/>][python]
+[<img src="https://img.shields.io/badge/-Python-blue?style=for-the-badge&logoColor=white&labelColor=000000&logo=Python" alt="Python"/>]
 
-[<img src="https://img.shields.io/badge/-C-blue?style=for-the-badge&logoColor=white&labelColor=000000&logo=c" alt="C"/>][c]
+[<img src="https://img.shields.io/badge/-C-blue?style=for-the-badge&logoColor=white&labelColor=000000&logo=c" alt="C"/>]
 
-[<img src="https://img.shields.io/badge/-C++-blue?style=for-the-badge&logoColor=white&labelColor=000000&logo=cplusplus" alt="C++"/>][cpp]
+[<img src="https://img.shields.io/badge/-C++-blue?style=for-the-badge&logoColor=white&labelColor=000000&logo=cplusplus" alt="C++"/>]
 
-[<img src="https://img.shields.io/badge/-Git-blue?style=for-the-badge&logoColor=white&labelColor=000000&logo=git" alt="Git"/>][git]
+[<img src="https://img.shields.io/badge/-Git-blue?style=for-the-badge&logoColor=white&labelColor=000000&logo=git" alt="Git"/>]
 
 <br></br>
 
-[<img src="https://img.shields.io/badge/-Pycharm-blue?style=for-the-badge&logoColor=white&labelColor=000000&logo=PyCharm" alt="Pycharm"/>][pycharm]
+[<img src="https://img.shields.io/badge/-Pycharm-blue?style=for-the-badge&logoColor=white&labelColor=000000&logo=PyCharm" alt="Pycharm"/>]
 
-[<img src="https://img.shields.io/badge/-VS Code-blue?style=for-the-badge&logoColor=white&labelColor=000000&logo=visualstudiocode" alt="VSCode"/>][vscode]
+[<img src="https://img.shields.io/badge/-VS Code-blue?style=for-the-badge&logoColor=white&labelColor=000000&logo=visualstudiocode" alt="VSCode"/>]
 
-[<img src="https://img.shields.io/badge/-Github-blue?style=for-the-badge&logoColor=white&labelColor=000000&logo=github" alt="Github"/>][github]
+[<img src="https://img.shields.io/badge/-Github-blue?style=for-the-badge&logoColor=white&labelColor=000000&logo=github" alt="Github"/>]
 
-[<img src="https://img.shields.io/badge/-Gitlab-blue?style=for-the-badge&logoColor=white&labelColor=000000&logo=gitlab" alt="Gitlab"/>][gitlab]
+[<img src="https://img.shields.io/badge/-Gitlab-blue?style=for-the-badge&logoColor=white&labelColor=000000&logo=gitlab" alt="Gitlab"/>]
 
-[<img src="https://img.shields.io/badge/-Jenkins-blue?style=for-the-badge&logoColor=white&labelColor=000000&logo=jenkins" alt="Jenkins"/>][jenkins]
+[<img src="https://img.shields.io/badge/-Jenkins-blue?style=for-the-badge&logoColor=white&labelColor=000000&logo=jenkins" alt="Jenkins"/>]
 
 </p>
 
@@ -92,16 +96,3 @@ I also want to start creating tools related to help with playing Fate Grand Orde
 
 Badges done with Shields.io <https://shields.io/>
 
-
-[twitter]: https://www.twitter.com/firq_ow
-[rayshift]: https://www.rayshift.io/na/firq
-[twitch]: https://www.twitch.tv/firq
-[github]: https://github.com/Firq-ow
-[pycharm]: https://www.jetbrains.com/pycharm/
-[python]: https://www.python.org/
-[c]: https://www.iso.org/standard/74528.html
-[cpp]: https://isocpp.org/
-[git]: https://git-scm.com/
-[gitlab]: https://about.gitlab.com/
-[jenkins]: https://www.jenkins.io/
-[vscode]: https://code.visualstudio.com/
