@@ -10,11 +10,9 @@ My interests range from gaming and anime to coding and computers in general. I a
 
 ### Socials
 
-[![Twitter Link Firq_ow](https://raw.githubusercontent.com/Firq-ow/Firq-ow/main/files/icons/twitter_light.svg#gh-light-mode-only)][twitter]
-[![Twitter Link Firq_ow](https://raw.githubusercontent.com/Firq-ow/Firq-ow/main/files/icons/twitter_dark.svg#gh-dark-mode-only)][twitter]
+[<img align="left" title="Twitter" alt="Twitter.com/firq_ow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.4.0/icons/twitter.svg" />][twitter]
 
-[![Twitch Link Firq_ow](https://raw.githubusercontent.com/Firq-ow/Firq-ow/main/files/icons/twitch_light.svg#gh-light-mode-only)][twitch]
-[![Twitch Link Firq_ow](https://raw.githubusercontent.com/Firq-ow/Firq-ow/main/files/icons/twitch_dark.svg#gh-dark-mode-only)][twitch]
+[<img align="left" title="Twitch" alt="twitch.tv/firq" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.4.0/icons/twitch.svg" />][twitch]
 
 [<img align="left" title="Rayshift.io" alt="Rayshift.io" width="22px" src="files/icons/rayshift_icon.png" />][rayshift]
 
@@ -28,32 +26,14 @@ I am currently learing how do design electrical systems and program. Doing that,
 
 ### Languages and Tools
 
-[![Python](https://raw.githubusercontent.com/Firq-ow/Firq-ow/main/files/icons/python_light.svg#gh-light-mode-only)][python]
-[![Python](https://raw.githubusercontent.com/Firq-ow/Firq-ow/main/files/icons/python_dark.svg#gh-dark-mode-only)][python]
-
-[![Pycharm](https://raw.githubusercontent.com/Firq-ow/Firq-ow/main/files/icons/pycharm_light.svg#gh-light-mode-only)][pycharm]
-[![Pycharm](https://raw.githubusercontent.com/Firq-ow/Firq-ow/main/files/icons/pycharm_dark.svg#gh-dark-mode-only)][pycharm]
-
-[![C](https://raw.githubusercontent.com/Firq-ow/Firq-ow/main/files/icons/c_light.svg#gh-light-mode-only)][c]
-[![C](https://raw.githubusercontent.com/Firq-ow/Firq-ow/main/files/icons/c_dark.svg#gh-dark-mode-only)][c]
-
-[![C++"](https://raw.githubusercontent.com/Firq-ow/Firq-ow/main/files/icons/cplusplus.svg#gh-light-mode-only)][cpp]
-[![C++"](https://raw.githubusercontent.com/Firq-ow/Firq-ow/main/files/icons/cplusplus_dark.svg#gh-dark-mode-only)][cpp]
-
-[![Git](https://raw.githubusercontent.com/Firq-ow/Firq-ow/main/files/icons/git_light.svg#gh-light-mode-only)][git]
-[![Git](https://raw.githubusercontent.com/Firq-ow/Firq-ow/main/files/icons/git_dark.svg#gh-dark-mode-only)][git]
-
-[![Git](https://raw.githubusercontent.com/Firq-ow/Firq-ow/main/files/icons/git_light.svg#gh-light-mode-only)][git]
-[![Git](https://raw.githubusercontent.com/Firq-ow/Firq-ow/main/files/icons/git_dark.svg#gh-dark-mode-only)][git]
-
-[![Github](https://raw.githubusercontent.com/Firq-ow/Firq-ow/main/files/icons/github_light.svg#gh-light-mode-only)][github]
-[![Github](https://raw.githubusercontent.com/Firq-ow/Firq-ow/main/files/icons/github_dark.svg#gh-dark-mode-only)][github]
-
-[![Gitlab](https://raw.githubusercontent.com/Firq-ow/Firq-ow/main/files/icons/gitlab_light.svg#gh-light-mode-only)][gitlab]
-[![Gitlab](https://raw.githubusercontent.com/Firq-ow/Firq-ow/main/files/icons/gitlab_dark.svg#gh-dark-mode-only)][gitlab]
-
-[![Jenkins](https://raw.githubusercontent.com/Firq-ow/Firq-ow/main/files/icons/jenkins_light.svg#gh-light-mode-only)][jenkins]
-[![Jenkins](https://raw.githubusercontent.com/Firq-ow/Firq-ow/main/files/icons/jenkins_dark.svg#gh-dark-mode-only)][jenkins]
+[<img align="left" title="Python" alt="Python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.4.0/icons/python.svg" />][python]
+[<img align="left" title="Pycharm" alt="Pycharm" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.4.0/icons/pycharm.svg" />][pycharm]
+[<img align="left" title="C" alt="C" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.4.0/icons/c.svg" />][c]
+[<img align="left" title="C++" alt="C++" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.4.0/icons/cplusplus.svg" />][cpp]
+[<img align="left" title="Git" alt="Git" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.4.0/icons/git.svg" />][git]
+[<img align="left" title="Github" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.4.0/icons/github.svg" />][github]
+[<img align="left" title="Gitlab" alt="Gitlab" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.4.0/icons/gitlab.svg" />][gitlab]
+[<img align="left" title="Jenkins" alt="Jenkins" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.4.0/icons/jenkins.svg" />][jenkins]
 
 <br>
 </br>
