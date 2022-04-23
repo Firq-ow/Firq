@@ -10,15 +10,27 @@ My interests range from gaming and anime to coding and computers in general. I a
 
 ### Socials
 
-[<img align="left" title="Twitter" alt="Twitter.com/firq_ow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.4.0/icons/twitter.svg" />][twitter]
+[<img src="https://img.shields.io/badge/Twitter-Firq__ow-blue?style=for-the-badge&logo=Twitter" alt="Twitter: Firq_ow"/>][twitter]
 
-[<img align="left" title="Twitch" alt="twitch.tv/firq" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.4.0/icons/twitch.svg" />][twitch]
+[<img src="https://img.shields.io/badge/Twitch-Firq-blueviolet?style=for-the-badge&logo=Twitch" alt="Twitch: Firq">][twitch]
 
 [<img align="left" title="Rayshift.io" alt="Rayshift.io" width="22px" src="files/icons/rayshift_icon.png" />][rayshift]
 
-<br>
-</br>
+<br></br>
+
 I am currently in the process of creating my own discord server.
+
+### Setup
+
+<img src="https://img.shields.io/badge/AMD-Ryzen 7 2700X-FF0000?labelColor=grey&style=for-the-badge&logo=AMD" />
+<img src="https://img.shields.io/badge/NVIDIA-RTX 2070-76B900?labelColor=grey&style=for-the-badge&logo=NVIDIA" />
+<img src="https://img.shields.io/badge/RAM-16GB-5d089b?labelColor=grey&style=for-the-badge" alt="RAM" />
+<img src="https://img.shields.io/badge/SSD-500GB-5d089b?labelColor=grey&style=for-the-badge" alt="SSD" />
+<img src="https://img.shields.io/badge/HDD-3TB-5d089b?labelColor=grey&style=for-the-badge" alt="HDD" />
+
+<br></br>
+
+<img src="https://img.shields.io/badge/Windows_10-5d089b?style=for-the-badge&logo=windows&logoColor=white" alt="Windows 10"/>
 
 ## What I do
 
@@ -26,17 +38,27 @@ I am currently learing how do design electrical systems and program. Doing that,
 
 ### Languages and Tools
 
-[<img align="left" title="Python" alt="Python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.4.0/icons/python.svg" />][python]
-[<img align="left" title="Pycharm" alt="Pycharm" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.4.0/icons/pycharm.svg" />][pycharm]
-[<img align="left" title="C" alt="C" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.4.0/icons/c.svg" />][c]
-[<img align="left" title="C++" alt="C++" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.4.0/icons/cplusplus.svg" />][cpp]
-[<img align="left" title="Git" alt="Git" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.4.0/icons/git.svg" />][git]
-[<img align="left" title="Github" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.4.0/icons/github.svg" />][github]
-[<img align="left" title="Gitlab" alt="Gitlab" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.4.0/icons/gitlab.svg" />][gitlab]
-[<img align="left" title="Jenkins" alt="Jenkins" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.4.0/icons/jenkins.svg" />][jenkins]
+[<img src="https://img.shields.io/badge/-Python-blue?style=for-the-badge&logoColor=white&labelColor=000000&logo=Python" alt="Python"/>][python]
 
-<br>
-</br>
+[<img src="https://img.shields.io/badge/-C-blue?style=for-the-badge&logoColor=white&labelColor=000000&logo=c" alt="C"/>][c]
+
+[<img src="https://img.shields.io/badge/-C++-blue?style=for-the-badge&logoColor=white&labelColor=000000&logo=cplusplus" alt="C++"/>][cpp]
+
+[<img src="https://img.shields.io/badge/-Git-blue?style=for-the-badge&logoColor=white&labelColor=000000&logo=git" alt="Git"/>][git]
+
+<br></br>
+
+[<img src="https://img.shields.io/badge/-Pycharm-blue?style=for-the-badge&logoColor=white&labelColor=000000&logo=PyCharm" alt="Pycharm"/>][pycharm]
+
+[<img src="https://img.shields.io/badge/-VS Code-blue?style=for-the-badge&logoColor=white&labelColor=000000&logo=visualstudiocode" alt="VSCode"/>][vscode]
+
+[<img src="https://img.shields.io/badge/-Github-blue?style=for-the-badge&logoColor=white&labelColor=000000&logo=github" alt="Github"/>][github]
+
+[<img src="https://img.shields.io/badge/-Gitlab-blue?style=for-the-badge&logoColor=white&labelColor=000000&logo=gitlab" alt="Gitlab"/>][gitlab]
+
+[<img src="https://img.shields.io/badge/-Jenkins-blue?style=for-the-badge&logoColor=white&labelColor=000000&logo=jenkins" alt="Jenkins"/>][jenkins]
+
+<br></br>
 
 I am also able to work with a variety of other programming, design and simulation tools, for example Matlab, Eagle or LTSpice, as well as with more specific languages like VHLD.
 
@@ -65,7 +87,7 @@ I also want to start creating tools related to help with playing Fate Grand Orde
 
 ### Credits
 
-Icons by Iconmonstr (<https://iconmonstr.com/>) and Simple-Icons (<https://www.jsdelivr.com/package/npm/simple-icons>)
+Badges done with Shields.io <https://shields.io/>
 
 
 [twitter]: https://www.twitter.com/firq_ow
@@ -79,3 +101,4 @@ Icons by Iconmonstr (<https://iconmonstr.com/>) and Simple-Icons (<https://www.j
 [git]: https://git-scm.com/
 [gitlab]: https://about.gitlab.com/
 [jenkins]: https://www.jenkins.io/
+[vscode]: https://code.visualstudio.com/
