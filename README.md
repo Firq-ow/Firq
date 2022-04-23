@@ -10,12 +10,11 @@ My interests range from gaming and anime to coding and computers in general. I a
 
 ### Socials
 
-[![Twitter Link Firq_ow](files/icons/twitter_light.svg#gh-light-mode-only)]([twitter])
-[![Twitter Link Firq_ow](files/icons/twitter_dark.svg#gh-dark-mode-only)]([twitter])
+[![Twitter Link Firq_ow](raw.githubusercontent.com/Firq-ow/Firq-ow/main/files/icons/twitter_light.svg#gh-light-mode-only)][twitter]
+[![Twitter Link Firq_ow](raw.githubusercontent.com/Firq-ow/Firq-ow/main/files/icons/twitter_dark.svg#gh-dark-mode-only)][twitter]
 
-[<img align="left" title="Twitter" alt="Twitter.com/firq_ow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.4.0/icons/twitter.svg" />][twitter]
-
-[<img align="left" title="Twitch" alt="twitch.tv/firq" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.4.0/icons/twitch.svg" />][twitch]
+[![Twitch Link Firq_ow](raw.githubusercontent.com/Firq-ow/Firq-ow/main/files/icons/twitch_light.svg#gh-light-mode-only)][twitch]
+[![Twitch Link Firq_ow](raw.githubusercontent.com/Firq-ow/Firq-ow/main/files/icons/twitch_dark.svg#gh-dark-mode-only)][twitch]
 
 [<img align="left" title="Rayshift.io" alt="Rayshift.io" width="22px" src="files/icons/rayshift_icon.png" />][rayshift]
 
@@ -28,15 +27,33 @@ I am currently in the process of creating my own discord server.
 I am currently learing how do design electrical systems and program. Doing that, I come in contact with a lot of different languages and systems.
 
 ### Languages and Tools
-[<img align="left" title="Python" alt="Python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.4.0/icons/python.svg" />][python]
-[<img align="left" title="Pycharm" alt="Pycharm" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.4.0/icons/pycharm.svg" />][pycharm]
-[<img align="left" title="C" alt="C" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.4.0/icons/c.svg" />][c]
-[<img align="left" title="C++" alt="C++" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.4.0/icons/cplusplus.svg" />][cpp]
-[<img align="left" title="Git" alt="Git" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.4.0/icons/git.svg" />][git]
-[<img align="left" title="Github" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.4.0/icons/github.svg" />][github]
-[<img align="left" title="Gitlab" alt="Gitlab" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.4.0/icons/gitlab.svg" />][gitlab]
-[<img align="left" title="Java" alt="Java" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.4.0/icons/java.svg" />][java]
-[<img align="left" title="Jenkins" alt="Jenkins" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.4.0/icons/jenkins.svg" />][jenkins]
+
+[![Python](raw.githubusercontent.com/Firq-ow/Firq-ow/main/files/icons/python_light.svg#gh-light-mode-only)][python]
+[![Python](raw.githubusercontent.com/Firq-ow/Firq-ow/main/files/icons/python_dark.svg#gh-dark-mode-only)][python]
+
+[![Pycharm](raw.githubusercontent.com/Firq-ow/Firq-ow/main/files/icons/pycharm_light.svg#gh-light-mode-only)][pycharm]
+[![Pycharm](raw.githubusercontent.com/Firq-ow/Firq-ow/main/files/icons/pycharm_dark.svg#gh-dark-mode-only)][pycharm]
+
+[![C](raw.githubusercontent.com/Firq-ow/Firq-ow/main/files/icons/c_light.svg#gh-light-mode-only)][c]
+[![C](raw.githubusercontent.com/Firq-ow/Firq-ow/main/files/icons/c_dark.svg#gh-dark-mode-only)][c]
+
+[![C++"](raw.githubusercontent.com/Firq-ow/Firq-ow/main/files/icons/cplusplus.svg#gh-light-mode-only)][cpp]
+[![C++"](raw.githubusercontent.com/Firq-ow/Firq-ow/main/files/icons/cplusplus_dark.svg#gh-dark-mode-only)][cpp]
+
+[![Git](raw.githubusercontent.com/Firq-ow/Firq-ow/main/files/icons/git_light.svg#gh-light-mode-only)][git]
+[![Git](raw.githubusercontent.com/Firq-ow/Firq-ow/main/files/icons/git_dark.svg#gh-dark-mode-only)][git]
+
+[![Git](raw.githubusercontent.com/Firq-ow/Firq-ow/main/files/icons/git_light.svg#gh-light-mode-only)][git]
+[![Git](raw.githubusercontent.com/Firq-ow/Firq-ow/main/files/icons/git_dark.svg#gh-dark-mode-only)][git]
+
+[![Github](raw.githubusercontent.com/Firq-ow/Firq-ow/main/files/icons/github_light.svg#gh-light-mode-only)][github]
+[![Github](raw.githubusercontent.com/Firq-ow/Firq-ow/main/files/icons/github_dark.svg#gh-dark-mode-only)][github]
+
+[![Gitlab](raw.githubusercontent.com/Firq-ow/Firq-ow/main/files/icons/gitlab_light.svg#gh-light-mode-only)][gitlab]
+[![Gitlab](raw.githubusercontent.com/Firq-ow/Firq-ow/main/files/icons/gitlab_dark.svg#gh-dark-mode-only)][gitlab]
+
+[![Jenkins](raw.githubusercontent.com/Firq-ow/Firq-ow/main/files/icons/jenkins_light.svg#gh-light-mode-only)][jenkins]
+[![Jenkins](raw.githubusercontent.com/Firq-ow/Firq-ow/main/files/icons/jenkins_dark.svg#gh-dark-mode-only)][jenkins]
 
 <br>
 </br>
@@ -68,7 +85,7 @@ I also want to start creating tools related to help with playing Fate Grand Orde
 
 ### Credits
 
-Icons by Iconmonstr (<https://iconmonstr.com/>)
+Icons by Iconmonstr (<https://iconmonstr.com/>) and Simple-Icons (<https://www.jsdelivr.com/package/npm/simple-icons>)
 
 
 [twitter]: https://www.twitter.com/firq_ow
@@ -77,7 +94,6 @@ Icons by Iconmonstr (<https://iconmonstr.com/>)
 [github]: https://github.com/Firq-ow
 [pycharm]: https://www.jetbrains.com/pycharm/
 [python]: https://www.python.org/
-[java]: https://www.java.com/en/
 [c]: https://www.iso.org/standard/74528.html
 [cpp]: https://isocpp.org/
 [git]: https://git-scm.com/
