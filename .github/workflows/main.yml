@@ -11,15 +11,15 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: defaults
-        uses: firq-ow/metrics@master
+        uses: Firq-ow/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics.classic.svg
+          token: ${{ secrets.METRICS_TOKEN }}
           base: header
           plugin_lines: yes
-          
+
       - name: languages
-        uses: firq-ow/metrics@master
+        uses: Firq-ow/metrics@latest
         with:
           filename: metrics.languages.svg
           token: ${{ secrets.METRICS_TOKEN }}
