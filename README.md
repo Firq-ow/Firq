@@ -68,6 +68,14 @@ I am currently learing how do design electrical systems and program. Doing that,
 
 I am also able to work with a variety of other programming, design and simulation tools, for example Matlab, Eagle or LTSpice, as well as with more specific languages like VHLD.
 
+### Metrics
+
+<p align='center'>
+<img src="/metrics.classic.svg" alt="Metrics" width="500px">
+
+<img src="/metrics.languages.svg" alt="Metrics" width="500px">
+</p>
+
 ### Past projects
 
 I won't go into that much details, since some of the projects are company-specific and restricted, but I can give a rundown of some of them.
