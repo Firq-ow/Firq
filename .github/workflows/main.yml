@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: defaults
-      - uses: firq-ow/metrics@master
+        uses: firq-ow/metrics@master
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics.classic.svg
